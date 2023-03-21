@@ -33,7 +33,18 @@ Edit README.md
 
 ### Step 2
 
-`git clone `
+`git clone https://github.com/tomhoi/Demo_GitHub_To_Local.git`
+
+## Continue your work locally
+
+### Step 1
+Add files ...
+
+### Step 2
+- `git status`
+- `git add .`
+- git commit -m "some message"`
+- `git push -u origin master`
 
 
 
