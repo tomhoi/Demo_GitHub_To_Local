@@ -8,7 +8,7 @@
 Here are some corrections to get the course right:
 
 - When first opening the terminal in VS Code,  on the top-right of the terminal bar just change from "Powershell" to "Git Bash" and then follow along
-Note: [link to change to "Git Bash" terminal in VS Code](https://neutrondev.com/vs-code-integrate-git-bash-default-terminal/)
+Note: [link on how to change to "Git Bash" terminal in VS Code](https://neutrondev.com/vs-code-integrate-git-bash-default-terminal/)
 
 - dont use SSH link when cloning...use HTTPS link so it becomes "git clone xxxHTTPSxxx"
 
