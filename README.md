@@ -1,7 +1,7 @@
 # Demo_GitHub_To_Local
 
 ## Link to video:
-[link](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[link to video](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## One important comment in the video:
 
